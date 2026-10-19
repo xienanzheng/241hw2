@@ -1,0 +1,781 @@
+Design,N,Lift,Power
+Q1: pooled additional message,100,0.02,0.05475094010884305
+Q1: pooled additional message,150,0.02,0.057135709460824115
+Q1: pooled additional message,200,0.02,0.05952819823546731
+Q1: pooled additional message,250,0.02,0.06192595181201772
+Q1: pooled additional message,300,0.02,0.06433063205082715
+Q1: pooled additional message,350,0.02,0.06674065986165544
+Q1: pooled additional message,400,0.02,0.0691571169755542
+Q1: pooled additional message,450,0.02,0.07157881485485015
+Q1: pooled additional message,500,0.02,0.07400654604697324
+Q1: pooled additional message,550,0.02,0.076439345036795
+Q1: pooled additional message,600,0.02,0.07887782978446985
+Q1: pooled additional message,650,0.02,0.08132117978935614
+Q1: pooled additional message,700,0.02,0.08376989605330282
+Q1: pooled additional message,750,0.02,0.08622326034619283
+Q1: pooled additional message,800,0.02,0.0886816899269518
+Q1: pooled additional message,850,0.02,0.09114454284591794
+Q1: pooled additional message,900,0.02,0.09361217354808696
+Q1: pooled additional message,950,0.02,0.0960839993681805
+Q1: pooled additional message,1000,0.02,0.0985603259882487
+Q1: pooled additional message,1050,0.02,0.10104061829661995
+Q1: pooled additional message,1100,0.02,0.10352514310631829
+Q1: pooled additional message,1150,0.02,0.10601340441774908
+Q1: pooled additional message,1200,0.02,0.10850563740586175
+Q1: pooled additional message,1250,0.02,0.11100137890307633
+Q1: pooled additional message,1300,0.02,0.113500837891427
+Q1: pooled additional message,1350,0.02,0.11600357923452403
+Q1: pooled additional message,1400,0.02,0.11850978992386951
+Q1: pooled additional message,1450,0.02,0.12101905910010743
+Q1: pooled additional message,1500,0.02,0.12353155507478221
+Q1: pooled additional message,1550,0.02,0.12604688827295604
+Q1: pooled additional message,1600,0.02,0.1285652109801028
+Q1: pooled additional message,1650,0.02,0.13108615248045255
+Q1: pooled additional message,1700,0.02,0.13360985119296873
+Q1: pooled additional message,1750,0.02,0.13613595326719785
+Q1: pooled additional message,1800,0.02,0.13866458503588858
+Q1: pooled additional message,1850,0.02,0.14119540785393314
+Q1: pooled additional message,1900,0.02,0.14372853745229783
+Q1: pooled additional message,1950,0.02,0.14626364899370492
+Q1: pooled additional message,2000,0.02,0.14880084885756345
+Q1: pooled additional message,100,0.05,0.07985461444029957
+Q1: pooled additional message,150,0.05,0.09509065916878527
+Q1: pooled additional message,200,0.05,0.11050200668237738
+Q1: pooled additional message,250,0.05,0.12604441850595557
+Q1: pooled additional message,300,0.05,0.14170190561516385
+Q1: pooled additional message,350,0.05,0.15743874967219312
+Q1: pooled additional message,400,0.05,0.17323811483095708
+Q1: pooled additional message,450,0.05,0.18906959591989903
+Q1: pooled additional message,500,0.05,0.20491716311872066
+Q1: pooled additional message,550,0.05,0.22075449880936657
+Q1: pooled additional message,600,0.05,0.23656692840933452
+Q1: pooled additional message,650,0.05,0.25233155568442267
+Q1: pooled additional message,700,0.05,0.2680352550166019
+Q1: pooled additional message,750,0.05,0.28365810772882966
+Q1: pooled additional message,800,0.05,0.29918858059609543
+Q1: pooled additional message,850,0.05,0.3146093969339826
+Q1: pooled additional message,900,0.05,0.3299105862495347
+Q1: pooled additional message,950,0.05,0.34507723932864676
+Q1: pooled additional message,1000,0.05,0.3601008805920536
+Q1: pooled additional message,1050,0.05,0.3749687325119942
+Q1: pooled additional message,1100,0.05,0.3896737263336278
+Q1: pooled additional message,1150,0.05,0.40420500758138495
+Q1: pooled additional message,1200,0.05,0.41855681596760536
+Q1: pooled additional message,1250,0.05,0.4327200320935299
+Q1: pooled additional message,1300,0.05,0.4466901014753237
+Q1: pooled additional message,1350,0.05,0.4604594685941103
+Q1: pooled additional message,1400,0.05,0.47402468151578375
+Q1: pooled additional message,1450,0.05,0.48737959171555956
+Q1: pooled additional message,1500,0.05,0.5005217483456049
+Q1: pooled additional message,1550,0.05,0.5134462656307982
+Q1: pooled additional message,1600,0.05,0.5261515956818832
+Q1: pooled additional message,1650,0.05,0.538633982665618
+Q1: pooled additional message,1700,0.05,0.5508926878564127
+Q1: pooled additional message,1750,0.05,0.5629249630654922
+Q1: pooled additional message,1800,0.05,0.5747307898934874
+Q1: pooled additional message,1850,0.05,0.5863083152534364
+Q1: pooled additional message,1900,0.05,0.5976581575567236
+Q1: pooled additional message,1950,0.05,0.6087792553818698
+Q1: pooled additional message,2000,0.05,0.6196727859364368
+Q1: pooled additional message,100,0.08,0.12757732562952642
+Q1: pooled additional message,150,0.08,0.16764633920337163
+Q1: pooled additional message,200,0.08,0.20802398748146422
+Q1: pooled additional message,250,0.08,0.248312610661262
+Q1: pooled additional message,300,0.08,0.2882369010085288
+Q1: pooled additional message,350,0.08,0.3275144919499647
+Q1: pooled additional message,400,0.08,0.36595059753822395
+Q1: pooled additional message,450,0.08,0.4033522903807307
+Q1: pooled additional message,500,0.08,0.43959296009984944
+Q1: pooled additional message,550,0.08,0.4745498501024034
+Q1: pooled additional message,600,0.08,0.5081510740448636
+Q1: pooled additional message,650,0.08,0.5403281582654085
+Q1: pooled additional message,700,0.08,0.5710515788148826
+Q1: pooled additional message,750,0.08,0.6002939224629564
+Q1: pooled additional message,800,0.08,0.6280573307945082
+Q1: pooled additional message,850,0.08,0.6543445654442381
+Q1: pooled additional message,900,0.08,0.6791805048706947
+Q1: pooled additional message,950,0.08,0.7025892690941005
+Q1: pooled additional message,1000,0.08,0.7246112257615647
+Q1: pooled additional message,1050,0.08,0.745284842776324
+Q1: pooled additional message,1100,0.08,0.7646602393991752
+Q1: pooled additional message,1150,0.08,0.7827847671546153
+Q1: pooled additional message,1200,0.08,0.7997138666991277
+Q1: pooled additional message,1250,0.08,0.8154996072465007
+Q1: pooled additional message,1300,0.08,0.8301994211914473
+Q1: pooled additional message,1350,0.08,0.8438669994476978
+Q1: pooled additional message,1400,0.08,0.8565593414715608
+Q1: pooled additional message,1450,0.08,0.8683295297814341
+Q1: pooled additional message,1500,0.08,0.8792324347249348
+Q1: pooled additional message,1550,0.08,0.8893189885765428
+Q1: pooled additional message,1600,0.08,0.8986408109170849
+Q1: pooled additional message,1650,0.08,0.9072456789064252
+Q1: pooled additional message,1700,0.08,0.9151812833018266
+Q1: pooled additional message,1750,0.08,0.9224916519460733
+Q1: pooled additional message,1800,0.08,0.9292202034424318
+Q1: pooled additional message,1850,0.08,0.9354069291821171
+Q1: pooled additional message,1900,0.08,0.9410908782112016
+Q1: pooled additional message,1950,0.08,0.9463079418546351
+Q1: pooled additional message,2000,0.08,0.9510928770141024
+Q1: pooled additional message,100,0.1,0.17259247000054634
+Q1: pooled additional message,150,0.1,0.2355829178847704
+Q1: pooled additional message,200,0.1,0.2979247242254279
+Q1: pooled additional message,250,0.1,0.3585651151388267
+Q1: pooled additional message,300,0.1,0.41680945811822345
+Q1: pooled additional message,350,0.1,0.47209331976856944
+Q1: pooled additional message,400,0.1,0.5240924362220981
+Q1: pooled additional message,450,0.1,0.572575246104496
+Q1: pooled additional message,500,0.1,0.6174681608756519
+Q1: pooled additional message,550,0.1,0.6587544399064607
+Q1: pooled additional message,600,0.1,0.6965164505115953
+Q1: pooled additional message,650,0.1,0.7308653584509204
+Q1: pooled additional message,700,0.1,0.7619701394681067
+Q1: pooled additional message,750,0.1,0.7900087586928716
+Q1: pooled additional message,800,0.1,0.8151889897599994
+Q1: pooled additional message,850,0.1,0.8377147837712491
+Q1: pooled additional message,900,0.1,0.8578017181792367
+Q1: pooled additional message,950,0.1,0.8756540966593862
+Q1: pooled additional message,1000,0.1,0.8914766912282592
+Q1: pooled additional message,1050,0.1,0.90545936959928
+Q1: pooled additional message,1100,0.1,0.9177861620037155
+Q1: pooled additional message,1150,0.1,0.9286251136609794
+Q1: pooled additional message,1200,0.1,0.9381353503291611
+Q1: pooled additional message,1250,0.1,0.9464605119960385
+Q1: pooled additional message,1300,0.1,0.9537342817239206
+Q1: pooled additional message,1350,0.1,0.9600762385603938
+Q1: pooled additional message,1400,0.1,0.9655961861568252
+Q1: pooled additional message,1450,0.1,0.9703916133141091
+Q1: pooled additional message,1500,0.1,0.9745510762975937
+Q1: pooled additional message,1550,0.1,0.978152707677933
+Q1: pooled additional message,1600,0.1,0.9812668497761177
+Q1: pooled additional message,1650,0.1,0.9839552318787651
+Q1: pooled additional message,1700,0.1,0.9862730112418158
+Q1: pooled additional message,1750,0.1,0.9882683647333724
+Q1: pooled additional message,1800,0.1,0.989984062539504
+Q1: pooled additional message,1850,0.1,0.9914573075290478
+Q1: pooled additional message,1900,0.1,0.9927209420715809
+Q1: pooled additional message,1950,0.1,0.9938034279620502
+Q1: pooled additional message,2000,0.1,0.9947297667888175
+Q1: pooled additional message,100,0.15,0.329910586249535
+Q1: pooled additional message,150,0.15,0.46042656818242
+Q1: pooled additional message,200,0.15,0.5747307898934877
+Q1: pooled additional message,250,0.15,0.6707326460744407
+Q1: pooled additional message,300,0.15,0.7489588480067655
+Q1: pooled additional message,350,0.15,0.8111138038748963
+Q1: pooled additional message,400,0.15,0.8595401057395535
+Q1: pooled additional message,450,0.15,0.8966222611400191
+Q1: pooled additional message,500,0.15,0.9246221649856389
+Q1: pooled additional message,550,0.15,0.9454941058728045
+Q1: pooled additional message,600,0.15,0.9608874101633424
+Q1: pooled additional message,650,0.15,0.9721266200275172
+Q1: pooled additional message,700,0.15,0.9802634543161565
+Q1: pooled additional message,750,0.15,0.9861064819771789
+Q1: pooled additional message,800,0.15,0.9902732630737664
+Q1: pooled additional message,850,0.15,0.9932246002471045
+Q1: pooled additional message,900,0.15,0.9953028729827043
+Q1: pooled additional message,950,0.15,0.9967579414688428
+Q1: pooled additional message,1000,0.15,0.9977716129300293
+Q1: pooled additional message,1050,0.15,0.9984742776638549
+Q1: pooled additional message,1100,0.15,0.9989592511835631
+Q1: pooled additional message,1150,0.15,0.999292519051235
+Q1: pooled additional message,1200,0.15,0.9995206665712988
+Q1: pooled additional message,1250,0.15,0.9996762488026099
+Q1: pooled additional message,1300,0.15,0.9997819880778354
+Q1: pooled additional message,1350,0.15,0.9998536044213151
+Q1: pooled additional message,1400,0.15,0.9999019629366562
+Q1: pooled additional message,1450,0.15,0.9999345151949515
+Q1: pooled additional message,1500,0.15,0.9999563677539316
+Q1: pooled additional message,1550,0.15,0.9999709961114229
+Q1: pooled additional message,1600,0.15,0.9999807642160372
+Q1: pooled additional message,1650,0.15,0.9999872700582941
+Q1: pooled additional message,1700,0.15,0.9999915933156059
+Q1: pooled additional message,1750,0.15,0.9999944593987518
+Q1: pooled additional message,1800,0.15,0.9999963554979185
+Q1: pooled additional message,1850,0.15,0.9999976071484531
+Q1: pooled additional message,1900,0.15,0.999998431798307
+Q1: pooled additional message,1950,0.15,0.9999989740183759
+Q1: pooled additional message,2000,0.15,0.9999993299014864
+Q2: one prespecified message,100,0.02,0.05475094010884305
+Q2: one prespecified message,150,0.02,0.05713635123305268
+Q2: one prespecified message,200,0.02,0.05952819823546731
+Q2: one prespecified message,250,0.02,0.06192633888272374
+Q2: one prespecified message,300,0.02,0.06433063205082715
+Q2: one prespecified message,350,0.02,0.0667409377210083
+Q2: one prespecified message,400,0.02,0.0691571169755542
+Q2: one prespecified message,450,0.02,0.07157903199361283
+Q2: one prespecified message,500,0.02,0.07400654604697322
+Q2: one prespecified message,550,0.02,0.07643952349582091
+Q2: one prespecified message,600,0.02,0.07887782978446985
+Q2: one prespecified message,650,0.02,0.08132133143707175
+Q2: one prespecified message,700,0.02,0.08376989605330286
+Q2: one prespecified message,750,0.02,0.08622339230402931
+Q2: one prespecified message,800,0.02,0.0886816899269518
+Q2: one prespecified message,850,0.02,0.0911446597222299
+Q2: one prespecified message,900,0.02,0.09361217354808696
+Q2: one prespecified message,950,0.02,0.09608410431639637
+Q2: one prespecified message,1000,0.02,0.0985603259882487
+Q2: one prespecified message,1050,0.02,0.10104071356950288
+Q2: one prespecified message,1100,0.02,0.10352514310631829
+Q2: one prespecified message,1150,0.02,0.10601349168067245
+Q2: one prespecified message,1200,0.02,0.10850563740586179
+Q2: one prespecified message,1250,0.02,0.1110014594219875
+Q2: one prespecified message,1300,0.02,0.113500837891427
+Q2: one prespecified message,1350,0.02,0.11600365399429155
+Q2: one prespecified message,1400,0.02,0.11850978992386951
+Q2: one prespecified message,1450,0.02,0.12101912888205824
+Q2: one prespecified message,1500,0.02,0.12353155507478221
+Q2: one prespecified message,1550,0.02,0.12604695370740063
+Q2: one prespecified message,1600,0.02,0.1285652109801028
+Q2: one prespecified message,1650,0.02,0.13108621408329368
+Q2: one prespecified message,1700,0.02,0.13360985119296873
+Q2: one prespecified message,1750,0.02,0.13613601146607915
+Q2: one prespecified message,1800,0.02,0.13866458503588858
+Q2: one prespecified message,1850,0.02,0.1411954630073204
+Q2: one prespecified message,1900,0.02,0.14372853745229783
+Q2: one prespecified message,1950,0.02,0.14626370140507525
+Q2: one prespecified message,2000,0.02,0.14880084885756356
+Q2: one prespecified message,100,0.05,0.07985461444029957
+Q2: one prespecified message,150,0.05,0.09509481006591916
+Q2: one prespecified message,200,0.05,0.11050200668237738
+Q2: one prespecified message,250,0.05,0.12604695370740046
+Q2: one prespecified message,300,0.05,0.14170190561516385
+Q2: one prespecified message,350,0.05,0.15744057996181565
+Q2: one prespecified message,400,0.05,0.17323811483095708
+Q2: one prespecified message,450,0.05,0.18907102587569602
+Q2: one prespecified message,500,0.05,0.20491716311872066
+Q2: one prespecified message,550,0.05,0.22075566765761628
+Q2: one prespecified message,600,0.05,0.23656692840933452
+Q2: one prespecified message,650,0.05,0.2523325390152517
+Q2: one prespecified message,700,0.05,0.2680352550166019
+Q2: one prespecified message,750,0.05,0.28365895139918607
+Q2: one prespecified message,800,0.05,0.29918858059609543
+Q2: one prespecified message,850,0.05,0.3146101310277255
+Q2: one prespecified message,900,0.05,0.3299105862495348
+Q2: one prespecified message,950,0.05,0.3450778847698066
+Q2: one prespecified message,1000,0.05,0.3601008805920536
+Q2: one prespecified message,1050,0.05,0.37496930452963745
+Q2: one prespecified message,1100,0.05,0.3896737263336278
+Q2: one prespecified message,1150,0.05,0.4042055176688668
+Q2: one prespecified message,1200,0.05,0.41855681596760536
+Q2: one prespecified message,1250,0.05,0.4327204891849151
+Q2: one prespecified message,1300,0.05,0.4466901014753237
+Q2: one prespecified message,1350,0.05,0.4604598798057464
+Q2: one prespecified message,1400,0.05,0.47402468151578375
+Q2: one prespecified message,1450,0.05,0.4873799628327686
+Q2: one prespecified message,1500,0.05,0.5005217483456049
+Q2: one prespecified message,1550,0.05,0.5134466014383704
+Q2: one prespecified message,1600,0.05,0.5261515956818832
+Q2: one prespecified message,1650,0.05,0.5386342871789093
+Q2: one prespecified message,1700,0.05,0.5508926878564127
+Q2: one prespecified message,1750,0.05,0.5629252396962015
+Q2: one prespecified message,1800,0.05,0.5747307898934874
+Q2: one prespecified message,1850,0.05,0.5863085669312352
+Q2: one prespecified message,1900,0.05,0.5976581575567236
+Q2: one prespecified message,1950,0.05,0.6087794846454566
+Q2: one prespecified message,2000,0.05,0.6196727859364368
+Q2: one prespecified message,100,0.08,0.12757732562952642
+Q2: one prespecified message,150,0.08,0.1676572941702408
+Q2: one prespecified message,200,0.08,0.20802398748146422
+Q2: one prespecified message,250,0.08,0.24831916137313267
+Q2: one prespecified message,300,0.08,0.2882369010085288
+Q2: one prespecified message,350,0.08,0.32751902366484936
+Q2: one prespecified message,400,0.08,0.36595059753822395
+Q2: one prespecified message,450,0.08,0.4033556294751915
+Q2: one prespecified message,500,0.08,0.43959296009984944
+Q2: one prespecified message,550,0.08,0.47455239289555
+Q2: one prespecified message,600,0.08,0.5081510740448636
+Q2: one prespecified message,650,0.08,0.5403301319238437
+Q2: one prespecified message,700,0.08,0.5710515788148826
+Q2: one prespecified message,750,0.08,0.6002954724080078
+Q2: one prespecified message,800,0.08,0.6280573307945082
+Q2: one prespecified message,850,0.08,0.654345791737225
+Q2: one prespecified message,900,0.08,0.6791805048706948
+Q2: one prespecified message,950,0.08,0.7025902440049456
+Q2: one prespecified message,1000,0.08,0.7246112257615647
+Q2: one prespecified message,1050,0.08,0.7452856202589172
+Q2: one prespecified message,1100,0.08,0.7646602393991752
+Q2: one prespecified message,1150,0.08,0.7827853884202369
+Q2: one prespecified message,1200,0.08,0.7997138666991277
+Q2: one prespecified message,1250,0.08,0.8155001042785096
+Q2: one prespecified message,1300,0.08,0.8301994211914473
+Q2: one prespecified message,1350,0.08,0.8438673973460193
+Q2: one prespecified message,1400,0.08,0.8565593414715608
+Q2: one prespecified message,1450,0.08,0.868329848398496
+Q2: one prespecified message,1500,0.08,0.8792324347249348
+Q2: one prespecified message,1550,0.08,0.8893192437002474
+Q2: one prespecified message,1600,0.08,0.8986408109170849
+Q2: one prespecified message,1650,0.08,0.9072458831397412
+Q2: one prespecified message,1700,0.08,0.9151812833018266
+Q2: one prespecified message,1750,0.08,0.922491815375251
+Q2: one prespecified message,1800,0.08,0.929220203442432
+Q2: one prespecified message,1850,0.08,0.9354070598926891
+Q2: one prespecified message,1900,0.08,0.9410908782112016
+Q2: one prespecified message,1950,0.08,0.9463080463348156
+Q2: one prespecified message,2000,0.08,0.9510928770141024
+Q2: one prespecified message,100,0.1,0.17259247000054634
+Q2: one prespecified message,150,0.1,0.2356000226276046
+Q2: one prespecified message,200,0.1,0.2979247242254279
+Q2: one prespecified message,250,0.1,0.35857483742632645
+Q2: one prespecified message,300,0.1,0.41680945811822345
+Q2: one prespecified message,350,0.1,0.47209958079625963
+Q2: one prespecified message,400,0.1,0.5240924362220981
+Q2: one prespecified message,450,0.1,0.5725794815262669
+Q2: one prespecified message,500,0.1,0.6174681608756519
+Q2: one prespecified message,550,0.1,0.6587573718578814
+Q2: one prespecified message,600,0.1,0.6965164505115953
+Q2: one prespecified message,650,0.1,0.7308674116970647
+Q2: one prespecified message,700,0.1,0.7619701394681067
+Q2: one prespecified message,750,0.1,0.7900102049589346
+Q2: one prespecified message,800,0.1,0.8151889897599994
+Q2: one prespecified message,850,0.1,0.8377158052077277
+Q2: one prespecified message,900,0.1,0.8578017181792367
+Q2: one prespecified message,950,0.1,0.8756548186638022
+Q2: one prespecified message,1000,0.1,0.8914766912282592
+Q2: one prespecified message,1050,0.1,0.9054598798210511
+Q2: one prespecified message,1100,0.1,0.9177861620037155
+Q2: one prespecified message,1150,0.1,0.928625473888985
+Q2: one prespecified message,1200,0.1,0.9381353503291611
+Q2: one prespecified message,1250,0.1,0.9464607659852007
+Q2: one prespecified message,1300,0.1,0.9537342817239206
+Q2: one prespecified message,1350,0.1,0.9600764173579804
+Q2: one prespecified message,1400,0.1,0.9655961861568252
+Q2: one prespecified message,1450,0.1,0.9703917389608432
+Q2: one prespecified message,1500,0.1,0.9745510762975937
+Q2: one prespecified message,1550,0.1,0.9781527958127558
+Q2: one prespecified message,1600,0.1,0.9812668497761177
+Q2: one prespecified message,1650,0.1,0.9839552935856826
+Q2: one prespecified message,1700,0.1,0.9862730112418158
+Q2: one prespecified message,1750,0.1,0.9882684078561212
+Q2: one prespecified message,1800,0.1,0.989984062539504
+Q2: one prespecified message,1850,0.1,0.9914573376085293
+Q2: one prespecified message,1900,0.1,0.9927209420715809
+Q2: one prespecified message,1950,0.1,0.993803448904935
+Q2: one prespecified message,2000,0.1,0.9947297667888175
+Q2: one prespecified message,100,0.15,0.329910586249535
+Q2: one prespecified message,150,0.15,0.46045987980574676
+Q2: one prespecified message,200,0.15,0.5747307898934877
+Q2: one prespecified message,250,0.15,0.6707467646344152
+Q2: one prespecified message,300,0.15,0.7489588480067655
+Q2: one prespecified message,350,0.15,0.8111201732882031
+Q2: one prespecified message,400,0.15,0.8595401057395535
+Q2: one prespecified message,450,0.15,0.8966251663516388
+Q2: one prespecified message,500,0.15,0.9246221649856389
+Q2: one prespecified message,550,0.15,0.9454954266948623
+Q2: one prespecified message,600,0.15,0.9608874101633424
+Q2: one prespecified message,650,0.15,0.9721272158055217
+Q2: one prespecified message,700,0.15,0.9802634543161565
+Q2: one prespecified message,750,0.15,0.9861067482187224
+Q2: one prespecified message,800,0.15,0.9902732630737664
+Q2: one prespecified message,850,0.15,0.9932247180960624
+Q2: one prespecified message,900,0.15,0.9953028729827044
+Q2: one prespecified message,950,0.15,0.9967579931525649
+Q2: one prespecified message,1000,0.15,0.9977716129300293
+Q2: one prespecified message,1050,0.15,0.9984743001317181
+Q2: one prespecified message,1100,0.15,0.9989592511835631
+Q2: one prespecified message,1150,0.15,0.999292528737968
+Q2: one prespecified message,1200,0.15,0.9995206665712988
+Q2: one prespecified message,1250,0.15,0.9996762529466943
+Q2: one prespecified message,1300,0.15,0.9997819880778354
+Q2: one prespecified message,1350,0.15,0.9998536061813982
+Q2: one prespecified message,1400,0.15,0.9999019629366562
+Q2: one prespecified message,1450,0.15,0.9999345159374466
+Q2: one prespecified message,1500,0.15,0.9999563677539316
+Q2: one prespecified message,1550,0.15,0.9999709964226637
+Q2: one prespecified message,1600,0.15,0.9999807642160372
+Q2: one prespecified message,1650,0.15,0.9999872701879858
+Q2: one prespecified message,1700,0.15,0.9999915933156059
+Q2: one prespecified message,1750,0.15,0.9999944594524917
+Q2: one prespecified message,1800,0.15,0.9999963554979185
+Q2: one prespecified message,1850,0.15,0.9999976071706039
+Q2: one prespecified message,1900,0.15,0.999998431798307
+Q2: one prespecified message,1950,0.15,0.9999989740274609
+Q2: one prespecified message,2000,0.15,0.9999993299014864
+Q2: both versus shared control,100,0.02,0.02706523401081187
+Q2: both versus shared control,150,0.02,0.02810586238326826
+Q2: both versus shared control,200,0.02,0.029129512485674223
+Q2: both versus shared control,250,0.02,0.030200291978951833
+Q2: both versus shared control,300,0.02,0.03125502998825906
+Q2: both versus shared control,350,0.02,0.032292726595494266
+Q2: both versus shared control,400,0.02,0.03337787266802411
+Q2: both versus shared control,450,0.02,0.034446581957336755
+Q2: both versus shared control,500,0.02,0.035497964560188104
+Q2: both versus shared control,550,0.02,0.03659719635781508
+Q2: both versus shared control,600,0.02,0.03767960316521144
+Q2: both versus shared control,650,0.02,0.03874435539376165
+Q2: both versus shared control,700,0.02,0.03985737152084483
+Q2: both versus shared control,750,0.02,0.040953184356377355
+Q2: both versus shared control,800,0.02,0.04205280946417377
+Q2: both versus shared control,850,0.02,0.0431574986901272
+Q2: both versus shared control,900,0.02,0.04424376217562777
+Q2: both versus shared control,950,0.02,0.045379093778036776
+Q2: both versus shared control,1000,0.02,0.04649668100580116
+Q2: both versus shared control,1050,0.02,0.0475955285140337
+Q2: both versus shared control,1100,0.02,0.048743832019801814
+Q2: both versus shared control,1150,0.02,0.04987402660633783
+Q2: both versus shared control,1200,0.02,0.05098516285071832
+Q2: both versus shared control,1250,0.02,0.05214613832726483
+Q2: both versus shared control,1300,0.02,0.05328864944475345
+Q2: both versus shared control,1350,0.02,0.05441178286823447
+Q2: both versus shared control,1400,0.02,0.055585131996757846
+Q2: both versus shared control,1450,0.02,0.05673966966628515
+Q2: both versus shared control,1500,0.02,0.05787451182992249
+Q2: both versus shared control,1550,0.02,0.059059938194086725
+Q2: both versus shared control,1600,0.02,0.060202369424714186
+Q2: both versus shared control,1650,0.02,0.06139569331348765
+Q2: both versus shared control,1700,0.02,0.06256968834215432
+Q2: both versus shared control,1750,0.02,0.0637233579260812
+Q2: both versus shared control,1800,0.02,0.06492826859948723
+Q2: both versus shared control,1850,0.02,0.06611352036598027
+Q2: both versus shared control,1900,0.02,0.06727814634090024
+Q2: both versus shared control,1950,0.02,0.06849435331580007
+Q2: both versus shared control,2000,0.02,0.06969057886751599
+Q2: both versus shared control,100,0.05,0.038091095285761524
+Q2: both versus shared control,150,0.05,0.04490589732903394
+Q2: both versus shared control,200,0.05,0.051735390012980595
+Q2: both versus shared control,250,0.05,0.05900844932289508
+Q2: both versus shared control,300,0.05,0.06629189189227272
+Q2: both versus shared control,350,0.05,0.07356002141073197
+Q2: both versus shared control,400,0.05,0.08126575235007708
+Q2: both versus shared control,450,0.05,0.08895090820027193
+Q2: both versus shared control,500,0.05,0.09659182861379764
+Q2: both versus shared control,550,0.05,0.10466342567939264
+Q2: both versus shared control,600,0.05,0.11268597768857572
+Q2: both versus shared control,650,0.05,0.12063756302750989
+Q2: both versus shared control,700,0.05,0.12901175175975077
+Q2: both versus shared control,750,0.05,0.1373109196292005
+Q2: both versus shared control,800,0.05,0.1456796195510947
+Q2: both versus shared control,850,0.05,0.15413204384868692
+Q2: both versus shared control,900,0.05,0.1624726402627707
+Q2: both versus shared control,950,0.05,0.17122101661359337
+Q2: both versus shared control,1000,0.05,0.17985703880049794
+Q2: both versus shared control,1050,0.05,0.18836097238460392
+Q2: both versus shared control,1100,0.05,0.19726202277622776
+Q2: both versus shared control,1150,0.05,0.20603106714192765
+Q2: both versus shared control,1200,0.05,0.21464998801404228
+Q2: both versus shared control,1250,0.05,0.22365472585551927
+Q2: both versus shared control,1300,0.05,0.23251006687859632
+Q2: both versus shared control,1350,0.05,0.2411994074384056
+Q2: both versus shared control,1400,0.05,0.2502627531145955
+Q2: both versus shared control,1450,0.05,0.2591614712548773
+Q2: both versus shared control,1500,0.05,0.2678803818444673
+Q2: both versus shared control,1550,0.05,0.2769610905397414
+Q2: both versus shared control,1600,0.05,0.2856783822493538
+Q2: both versus shared control,1650,0.05,0.2947496846535872
+Q2: both versus shared control,1700,0.05,0.3036358101106355
+Q2: both versus shared control,1750,0.05,0.3123226324060865
+Q2: both versus shared control,1800,0.05,0.32135078673711465
+Q2: both versus shared control,1850,0.05,0.330183723251182
+Q2: both versus shared control,1900,0.05,0.33880862643551013
+Q2: both versus shared control,1950,0.05,0.3477620574633982
+Q2: both versus shared control,2000,0.05,0.3565119759923436
+Q2: both versus shared control,100,0.08,0.05967823228427925
+Q2: both versus shared control,150,0.08,0.07854597080744714
+Q2: both versus shared control,200,0.08,0.09782270858689726
+Q2: both versus shared control,250,0.08,0.11863990850501947
+Q2: both versus shared control,300,0.08,0.13967496073829355
+Q2: both versus shared control,350,0.08,0.16075391278145085
+Q2: both versus shared control,400,0.08,0.1831213188315285
+Q2: both versus shared control,450,0.08,0.20537350754747655
+Q2: both versus shared control,500,0.08,0.22737276532570996
+Q2: both versus shared control,550,0.08,0.2504285977088713
+Q2: both versus shared control,600,0.08,0.2731073514770276
+Q2: both versus shared control,650,0.08,0.29530403311513675
+Q2: both versus shared control,700,0.08,0.31834979763767446
+Q2: both versus shared control,750,0.08,0.34082238988161845
+Q2: both versus shared control,800,0.08,0.36307790680436314
+Q2: both versus shared control,850,0.08,0.3851366208535335
+Q2: both versus shared control,900,0.08,0.4064607767781636
+Q2: both versus shared control,950,0.08,0.42834922887696314
+Q2: both versus shared control,1000,0.08,0.4494640389139863
+Q2: both versus shared control,1050,0.08,0.4697628041265782
+Q2: both versus shared control,1100,0.08,0.4904877474948747
+Q2: both versus shared control,1150,0.08,0.510378807707106
+Q2: both versus shared control,1200,0.08,0.5294120100740687
+Q2: both versus shared control,1250,0.08,0.54875719891025
+Q2: both versus shared control,1300,0.08,0.5672438216213231
+Q2: both versus shared control,1350,0.08,0.5848624761084434
+Q2: both versus shared control,1400,0.08,0.6027004134429814
+Q2: both versus shared control,1450,0.08,0.6196829563597676
+Q2: both versus shared control,1500,0.08,0.6358118861201848
+Q2: both versus shared control,1550,0.08,0.652086217714619
+Q2: both versus shared control,1600,0.08,0.6672089672514089
+Q2: both versus shared control,1650,0.08,0.6824379007380763
+Q2: both versus shared control,1700,0.08,0.6968610320687106
+Q2: both versus shared control,1750,0.08,0.7104907608420425
+Q2: both versus shared control,1800,0.08,0.7241780999119707
+Q2: both versus shared control,1850,0.08,0.737106243913581
+Q2: both versus shared control,1900,0.08,0.7492923926525665
+Q2: both versus shared control,1950,0.08,0.7614995942673175
+Q2: both versus shared control,2000,0.08,0.7730017333713234
+Q2: both versus shared control,100,0.1,0.08088191450190241
+Q2: both versus shared control,150,0.1,0.11211024085811455
+Q2: both versus shared control,200,0.1,0.1441935221155391
+Q2: both versus shared control,250,0.1,0.17881012083898049
+Q2: both versus shared control,300,0.1,0.2135753793249989
+Q2: both versus shared control,350,0.1,0.24805952650290672
+Q2: both versus shared control,400,0.1,0.2841545309561501
+Q2: both versus shared control,450,0.1,0.3194673009173442
+Q2: both versus shared control,500,0.1,0.35372463922679004
+Q2: both versus shared control,550,0.1,0.3888758831912495
+Q2: both versus shared control,600,0.1,0.42265730291019066
+Q2: both versus shared control,650,0.1,0.45492117318507447
+Q2: both versus shared control,700,0.1,0.48755629821800794
+Q2: both versus shared control,750,0.1,0.5185101936373374
+Q2: both versus shared control,800,0.1,0.5482983659113457
+Q2: both versus shared control,850,0.1,0.5769613238031291
+Q2: both versus shared control,900,0.1,0.6038399865650494
+Q2: both versus shared control,950,0.1,0.6305738990813197
+Q2: both versus shared control,1000,0.1,0.6555331040005324
+Q2: both versus shared control,1050,0.1,0.6787518484199155
+Q2: both versus shared control,1100,0.1,0.7016698274848889
+Q2: both versus shared control,1150,0.1,0.7229120412144465
+Q2: both versus shared control,1200,0.1,0.7425421915186952
+Q2: both versus shared control,1250,0.1,0.7617949168533825
+Q2: both versus shared control,1300,0.1,0.7795315447638439
+Q2: both versus shared control,1350,0.1,0.7958302093908006
+Q2: both versus shared control,1400,0.1,0.8117289465575004
+Q2: both versus shared control,1450,0.1,0.826299499955834
+Q2: both versus shared control,1500,0.1,0.8396240434912596
+Q2: both versus shared control,1550,0.1,0.8525607150841377
+Q2: both versus shared control,1600,0.1,0.864122340944561
+Q2: both versus shared control,1650,0.1,0.8753166751971699
+Q2: both versus shared control,1700,0.1,0.8855020822996479
+Q2: both versus shared control,1750,0.1,0.8947527300729383
+Q2: both versus shared control,1800,0.1,0.9036755140568825
+Q2: both versus shared control,1850,0.1,0.9117641895588554
+Q2: both versus shared control,1900,0.1,0.9190851809466615
+Q2: both versus shared control,1950,0.1,0.9261227948016203
+Q2: both versus shared control,2000,0.1,0.932481493372996
+Q2: both versus shared control,100,0.15,0.16259879122863777
+Q2: both versus shared control,150,0.15,0.24138394918140146
+Q2: both versus shared control,200,0.15,0.3197229297451623
+Q2: both versus shared control,250,0.15,0.39965387894267734
+Q2: both versus shared control,300,0.15,0.4742862744339176
+Q2: both versus shared control,350,0.15,0.5423957789124159
+Q2: both versus shared control,400,0.15,0.6072633209766832
+Q2: both versus shared control,450,0.15,0.664484835607781
+Q2: both versus shared control,500,0.15,0.7143295892831185
+Q2: both versus shared control,550,0.15,0.7599279674657787
+Q2: both versus shared control,600,0.15,0.7987559684596045
+Q2: both versus shared control,650,0.15,0.8315670312793759
+Q2: both versus shared control,700,0.15,0.8607753842004231
+Q2: both versus shared control,750,0.15,0.8850397865432894
+Q2: both versus shared control,800,0.15,0.9054683737496267
+Q2: both versus shared control,850,0.15,0.9226046910288921
+Q2: both versus shared control,900,0.15,0.9366069135438929
+Q2: both versus shared control,950,0.15,0.9486943101462528
+Q2: both versus shared control,1000,0.15,0.9584524496231541
+Q2: both versus shared control,1050,0.15,0.9663127573094955
+Q2: both versus shared control,1100,0.15,0.9730073142547987
+Q2: both versus shared control,1150,0.15,0.978343450579001
+Q2: both versus shared control,1200,0.15,0.9825919917305566
+Q2: both versus shared control,1250,0.15,0.9861705595702248
+Q2: both versus shared control,1300,0.15,0.9889930250775016
+Q2: both versus shared control,1350,0.15,0.9912184432368545
+Q2: both versus shared control,1400,0.15,0.9930755231772612
+Q2: both versus shared control,1450,0.15,0.9945271822340187
+Q2: both versus shared control,1500,0.15,0.9956623003285616
+Q2: both versus shared control,1550,0.15,0.9966019982111409
+Q2: both versus shared control,1600,0.15,0.9973173818801686
+Q2: both versus shared control,1650,0.15,0.9979068453797673
+Q2: both versus shared control,1700,0.15,0.9983620060824582
+Q2: both versus shared control,1750,0.15,0.9987138196341157
+Q2: both versus shared control,1800,0.15,0.9990018624408067
+Q2: both versus shared control,1850,0.15,0.9992229032952837
+Q2: both versus shared control,1900,0.15,0.9993927652458644
+Q2: both versus shared control,1950,0.15,0.9995310522807643
+Q2: both versus shared control,2000,0.15,0.9996365885694335
+Q3: bCourses versus flyers,100,0.02,0.05475094010884305
+Q3: bCourses versus flyers,150,0.02,0.05713635123305268
+Q3: bCourses versus flyers,200,0.02,0.05952819823546731
+Q3: bCourses versus flyers,250,0.02,0.06192633888272374
+Q3: bCourses versus flyers,300,0.02,0.06433063205082715
+Q3: bCourses versus flyers,350,0.02,0.0667409377210083
+Q3: bCourses versus flyers,400,0.02,0.0691571169755542
+Q3: bCourses versus flyers,450,0.02,0.07157903199361283
+Q3: bCourses versus flyers,500,0.02,0.07400654604697322
+Q3: bCourses versus flyers,550,0.02,0.07643952349582091
+Q3: bCourses versus flyers,600,0.02,0.07887782978446985
+Q3: bCourses versus flyers,650,0.02,0.08132133143707175
+Q3: bCourses versus flyers,700,0.02,0.08376989605330286
+Q3: bCourses versus flyers,750,0.02,0.08622339230402931
+Q3: bCourses versus flyers,800,0.02,0.0886816899269518
+Q3: bCourses versus flyers,850,0.02,0.0911446597222299
+Q3: bCourses versus flyers,900,0.02,0.09361217354808696
+Q3: bCourses versus flyers,950,0.02,0.09608410431639637
+Q3: bCourses versus flyers,1000,0.02,0.0985603259882487
+Q3: bCourses versus flyers,1050,0.02,0.10104071356950288
+Q3: bCourses versus flyers,1100,0.02,0.10352514310631829
+Q3: bCourses versus flyers,1150,0.02,0.10601349168067245
+Q3: bCourses versus flyers,1200,0.02,0.10850563740586179
+Q3: bCourses versus flyers,1250,0.02,0.1110014594219875
+Q3: bCourses versus flyers,1300,0.02,0.113500837891427
+Q3: bCourses versus flyers,1350,0.02,0.11600365399429155
+Q3: bCourses versus flyers,1400,0.02,0.11850978992386951
+Q3: bCourses versus flyers,1450,0.02,0.12101912888205824
+Q3: bCourses versus flyers,1500,0.02,0.12353155507478221
+Q3: bCourses versus flyers,1550,0.02,0.12604695370740063
+Q3: bCourses versus flyers,1600,0.02,0.1285652109801028
+Q3: bCourses versus flyers,1650,0.02,0.13108621408329368
+Q3: bCourses versus flyers,1700,0.02,0.13360985119296873
+Q3: bCourses versus flyers,1750,0.02,0.13613601146607915
+Q3: bCourses versus flyers,1800,0.02,0.13866458503588858
+Q3: bCourses versus flyers,1850,0.02,0.1411954630073204
+Q3: bCourses versus flyers,1900,0.02,0.14372853745229783
+Q3: bCourses versus flyers,1950,0.02,0.14626370140507525
+Q3: bCourses versus flyers,2000,0.02,0.14880084885756356
+Q3: bCourses versus flyers,100,0.05,0.07985461444029957
+Q3: bCourses versus flyers,150,0.05,0.09509481006591916
+Q3: bCourses versus flyers,200,0.05,0.11050200668237738
+Q3: bCourses versus flyers,250,0.05,0.12604695370740046
+Q3: bCourses versus flyers,300,0.05,0.14170190561516385
+Q3: bCourses versus flyers,350,0.05,0.15744057996181565
+Q3: bCourses versus flyers,400,0.05,0.17323811483095708
+Q3: bCourses versus flyers,450,0.05,0.18907102587569602
+Q3: bCourses versus flyers,500,0.05,0.20491716311872066
+Q3: bCourses versus flyers,550,0.05,0.22075566765761628
+Q3: bCourses versus flyers,600,0.05,0.23656692840933452
+Q3: bCourses versus flyers,650,0.05,0.2523325390152517
+Q3: bCourses versus flyers,700,0.05,0.2680352550166019
+Q3: bCourses versus flyers,750,0.05,0.28365895139918607
+Q3: bCourses versus flyers,800,0.05,0.29918858059609543
+Q3: bCourses versus flyers,850,0.05,0.3146101310277255
+Q3: bCourses versus flyers,900,0.05,0.3299105862495348
+Q3: bCourses versus flyers,950,0.05,0.3450778847698066
+Q3: bCourses versus flyers,1000,0.05,0.3601008805920536
+Q3: bCourses versus flyers,1050,0.05,0.37496930452963745
+Q3: bCourses versus flyers,1100,0.05,0.3896737263336278
+Q3: bCourses versus flyers,1150,0.05,0.4042055176688668
+Q3: bCourses versus flyers,1200,0.05,0.41855681596760536
+Q3: bCourses versus flyers,1250,0.05,0.4327204891849151
+Q3: bCourses versus flyers,1300,0.05,0.4466901014753237
+Q3: bCourses versus flyers,1350,0.05,0.4604598798057464
+Q3: bCourses versus flyers,1400,0.05,0.47402468151578375
+Q3: bCourses versus flyers,1450,0.05,0.4873799628327686
+Q3: bCourses versus flyers,1500,0.05,0.5005217483456049
+Q3: bCourses versus flyers,1550,0.05,0.5134466014383704
+Q3: bCourses versus flyers,1600,0.05,0.5261515956818832
+Q3: bCourses versus flyers,1650,0.05,0.5386342871789093
+Q3: bCourses versus flyers,1700,0.05,0.5508926878564127
+Q3: bCourses versus flyers,1750,0.05,0.5629252396962015
+Q3: bCourses versus flyers,1800,0.05,0.5747307898934874
+Q3: bCourses versus flyers,1850,0.05,0.5863085669312352
+Q3: bCourses versus flyers,1900,0.05,0.5976581575567236
+Q3: bCourses versus flyers,1950,0.05,0.6087794846454566
+Q3: bCourses versus flyers,2000,0.05,0.6196727859364368
+Q3: bCourses versus flyers,100,0.08,0.12757732562952642
+Q3: bCourses versus flyers,150,0.08,0.1676572941702408
+Q3: bCourses versus flyers,200,0.08,0.20802398748146422
+Q3: bCourses versus flyers,250,0.08,0.24831916137313267
+Q3: bCourses versus flyers,300,0.08,0.2882369010085288
+Q3: bCourses versus flyers,350,0.08,0.32751902366484936
+Q3: bCourses versus flyers,400,0.08,0.36595059753822395
+Q3: bCourses versus flyers,450,0.08,0.4033556294751915
+Q3: bCourses versus flyers,500,0.08,0.43959296009984944
+Q3: bCourses versus flyers,550,0.08,0.47455239289555
+Q3: bCourses versus flyers,600,0.08,0.5081510740448636
+Q3: bCourses versus flyers,650,0.08,0.5403301319238437
+Q3: bCourses versus flyers,700,0.08,0.5710515788148826
+Q3: bCourses versus flyers,750,0.08,0.6002954724080078
+Q3: bCourses versus flyers,800,0.08,0.6280573307945082
+Q3: bCourses versus flyers,850,0.08,0.654345791737225
+Q3: bCourses versus flyers,900,0.08,0.6791805048706948
+Q3: bCourses versus flyers,950,0.08,0.7025902440049456
+Q3: bCourses versus flyers,1000,0.08,0.7246112257615647
+Q3: bCourses versus flyers,1050,0.08,0.7452856202589172
+Q3: bCourses versus flyers,1100,0.08,0.7646602393991752
+Q3: bCourses versus flyers,1150,0.08,0.7827853884202369
+Q3: bCourses versus flyers,1200,0.08,0.7997138666991277
+Q3: bCourses versus flyers,1250,0.08,0.8155001042785096
+Q3: bCourses versus flyers,1300,0.08,0.8301994211914473
+Q3: bCourses versus flyers,1350,0.08,0.8438673973460193
+Q3: bCourses versus flyers,1400,0.08,0.8565593414715608
+Q3: bCourses versus flyers,1450,0.08,0.868329848398496
+Q3: bCourses versus flyers,1500,0.08,0.8792324347249348
+Q3: bCourses versus flyers,1550,0.08,0.8893192437002474
+Q3: bCourses versus flyers,1600,0.08,0.8986408109170849
+Q3: bCourses versus flyers,1650,0.08,0.9072458831397412
+Q3: bCourses versus flyers,1700,0.08,0.9151812833018266
+Q3: bCourses versus flyers,1750,0.08,0.922491815375251
+Q3: bCourses versus flyers,1800,0.08,0.929220203442432
+Q3: bCourses versus flyers,1850,0.08,0.9354070598926891
+Q3: bCourses versus flyers,1900,0.08,0.9410908782112016
+Q3: bCourses versus flyers,1950,0.08,0.9463080463348156
+Q3: bCourses versus flyers,2000,0.08,0.9510928770141024
+Q3: bCourses versus flyers,100,0.1,0.17259247000054634
+Q3: bCourses versus flyers,150,0.1,0.2356000226276046
+Q3: bCourses versus flyers,200,0.1,0.2979247242254279
+Q3: bCourses versus flyers,250,0.1,0.35857483742632645
+Q3: bCourses versus flyers,300,0.1,0.41680945811822345
+Q3: bCourses versus flyers,350,0.1,0.47209958079625963
+Q3: bCourses versus flyers,400,0.1,0.5240924362220981
+Q3: bCourses versus flyers,450,0.1,0.5725794815262669
+Q3: bCourses versus flyers,500,0.1,0.6174681608756519
+Q3: bCourses versus flyers,550,0.1,0.6587573718578814
+Q3: bCourses versus flyers,600,0.1,0.6965164505115953
+Q3: bCourses versus flyers,650,0.1,0.7308674116970647
+Q3: bCourses versus flyers,700,0.1,0.7619701394681067
+Q3: bCourses versus flyers,750,0.1,0.7900102049589346
+Q3: bCourses versus flyers,800,0.1,0.8151889897599994
+Q3: bCourses versus flyers,850,0.1,0.8377158052077277
+Q3: bCourses versus flyers,900,0.1,0.8578017181792367
+Q3: bCourses versus flyers,950,0.1,0.8756548186638022
+Q3: bCourses versus flyers,1000,0.1,0.8914766912282592
+Q3: bCourses versus flyers,1050,0.1,0.9054598798210511
+Q3: bCourses versus flyers,1100,0.1,0.9177861620037155
+Q3: bCourses versus flyers,1150,0.1,0.928625473888985
+Q3: bCourses versus flyers,1200,0.1,0.9381353503291611
+Q3: bCourses versus flyers,1250,0.1,0.9464607659852007
+Q3: bCourses versus flyers,1300,0.1,0.9537342817239206
+Q3: bCourses versus flyers,1350,0.1,0.9600764173579804
+Q3: bCourses versus flyers,1400,0.1,0.9655961861568252
+Q3: bCourses versus flyers,1450,0.1,0.9703917389608432
+Q3: bCourses versus flyers,1500,0.1,0.9745510762975937
+Q3: bCourses versus flyers,1550,0.1,0.9781527958127558
+Q3: bCourses versus flyers,1600,0.1,0.9812668497761177
+Q3: bCourses versus flyers,1650,0.1,0.9839552935856826
+Q3: bCourses versus flyers,1700,0.1,0.9862730112418158
+Q3: bCourses versus flyers,1750,0.1,0.9882684078561212
+Q3: bCourses versus flyers,1800,0.1,0.989984062539504
+Q3: bCourses versus flyers,1850,0.1,0.9914573376085293
+Q3: bCourses versus flyers,1900,0.1,0.9927209420715809
+Q3: bCourses versus flyers,1950,0.1,0.993803448904935
+Q3: bCourses versus flyers,2000,0.1,0.9947297667888175
+Q3: bCourses versus flyers,100,0.15,0.329910586249535
+Q3: bCourses versus flyers,150,0.15,0.46045987980574676
+Q3: bCourses versus flyers,200,0.15,0.5747307898934877
+Q3: bCourses versus flyers,250,0.15,0.6707467646344152
+Q3: bCourses versus flyers,300,0.15,0.7489588480067655
+Q3: bCourses versus flyers,350,0.15,0.8111201732882031
+Q3: bCourses versus flyers,400,0.15,0.8595401057395535
+Q3: bCourses versus flyers,450,0.15,0.8966251663516388
+Q3: bCourses versus flyers,500,0.15,0.9246221649856389
+Q3: bCourses versus flyers,550,0.15,0.9454954266948623
+Q3: bCourses versus flyers,600,0.15,0.9608874101633424
+Q3: bCourses versus flyers,650,0.15,0.9721272158055217
+Q3: bCourses versus flyers,700,0.15,0.9802634543161565
+Q3: bCourses versus flyers,750,0.15,0.9861067482187224
+Q3: bCourses versus flyers,800,0.15,0.9902732630737664
+Q3: bCourses versus flyers,850,0.15,0.9932247180960624
+Q3: bCourses versus flyers,900,0.15,0.9953028729827044
+Q3: bCourses versus flyers,950,0.15,0.9967579931525649
+Q3: bCourses versus flyers,1000,0.15,0.9977716129300293
+Q3: bCourses versus flyers,1050,0.15,0.9984743001317181
+Q3: bCourses versus flyers,1100,0.15,0.9989592511835631
+Q3: bCourses versus flyers,1150,0.15,0.999292528737968
+Q3: bCourses versus flyers,1200,0.15,0.9995206665712988
+Q3: bCourses versus flyers,1250,0.15,0.9996762529466943
+Q3: bCourses versus flyers,1300,0.15,0.9997819880778354
+Q3: bCourses versus flyers,1350,0.15,0.9998536061813982
+Q3: bCourses versus flyers,1400,0.15,0.9999019629366562
+Q3: bCourses versus flyers,1450,0.15,0.9999345159374466
+Q3: bCourses versus flyers,1500,0.15,0.9999563677539316
+Q3: bCourses versus flyers,1550,0.15,0.9999709964226637
+Q3: bCourses versus flyers,1600,0.15,0.9999807642160372
+Q3: bCourses versus flyers,1650,0.15,0.9999872701879858
+Q3: bCourses versus flyers,1700,0.15,0.9999915933156059
+Q3: bCourses versus flyers,1750,0.15,0.9999944594524917
+Q3: bCourses versus flyers,1800,0.15,0.9999963554979185
+Q3: bCourses versus flyers,1850,0.15,0.9999976071706039
+Q3: bCourses versus flyers,1900,0.15,0.999998431798307
+Q3: bCourses versus flyers,1950,0.15,0.9999989740274609
+Q3: bCourses versus flyers,2000,0.15,0.9999993299014864

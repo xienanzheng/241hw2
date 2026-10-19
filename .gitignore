@@ -1,0 +1,7 @@
+.venv/
+.quarto/
+__pycache__/
+.ipynb_checkpoints/
+*_files/
+*.typ
+.DS_Store

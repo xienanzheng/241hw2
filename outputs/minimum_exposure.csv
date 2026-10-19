@@ -1,0 +1,21 @@
+Design,Gap (pp),C / B / F,Exposed,Power
+Q1: pooled additional message,2,Not feasible,,
+Q1: pooled additional message,5,Not feasible,,
+Q1: pooled additional message,8,1626 / 187 / 187,374.0,0.8002038554660016
+Q1: pooled additional message,10,1780 / 110 / 110,220.0,0.8008853125066124
+Q1: pooled additional message,15,1908 / 46 / 46,92.0,0.806948491147363
+Q2: one prespecified message,2,Not feasible,,
+Q2: one prespecified message,5,Not feasible,,
+Q2: one prespecified message,8,1626 / 374 / 0,374.0,0.8002038554660016
+Q2: one prespecified message,10,1780 / 220 / 0,220.0,0.8008853125066124
+Q2: one prespecified message,15,1909 / 91 / 0,91.0,0.8028977699704617
+Q2: both versus shared control,2,Not feasible,,
+Q2: both versus shared control,5,Not feasible,,
+Q2: both versus shared control,8,Not feasible,,
+Q2: both versus shared control,10,1434 / 283 / 283,566.0,0.8005405796935217
+Q2: both versus shared control,15,1778 / 111 / 111,222.0,0.8004473399220958
+Q3: bCourses versus flyers,2,Not feasible,,
+Q3: bCourses versus flyers,5,Not feasible,,
+Q3: bCourses versus flyers,8,0 / 601 / 600,1201.0,0.8000339281476396
+Q3: bCourses versus flyers,10,0 / 385 / 385,770.0,0.8004134550433556
+Q3: bCourses versus flyers,15,0 / 171 / 170,341.0,0.8009945418455863

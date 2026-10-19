@@ -1,0 +1,5 @@
+Design,Planning power,Simulated min marginal power,Simulated null family-wise error
+Q1: pooled additional message,0.8008853125066124,0.80784,0.04964
+Q2: one prespecified message,0.8008853125066124,0.80784,0.04964
+Q2: both versus shared control,0.8005405796935217,0.80626,0.05014
+Q3: bCourses versus flyers,0.8004134550433556,0.79722,0.0523

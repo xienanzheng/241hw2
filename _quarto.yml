@@ -1,0 +1,21 @@
+project:
+  type: default
+title: "Problem Set 2"
+author: "Nanzheng Xie"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    code-fold: false
+  typst:
+    papersize: us-letter
+    fontsize: 10pt
+    margin:
+      x: 0.7in
+      y: 0.65in
+    toc: false
+    code-overflow: wrap
+    include-in-header:
+      text: |
+        #show raw: set text(size: 8pt)
+        #set par(justify: false)
