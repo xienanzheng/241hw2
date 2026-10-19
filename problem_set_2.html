@@ -3557,8 +3557,6 @@ window.Quarto = {
 <section id="assumptions-and-function" class="level3">
 <h3 class="anchored" data-anchor-id="assumptions-and-function">3.1 Assumptions and function</h3>
 <p>Everyone receives the ordinary email. <span class="math inline">\(C\)</span> denotes email only, <span class="math inline">\(B\)</span> adds bCourses and <span class="math inline">\(F\)</span> adds flyers. I assume independent binary attendance, 40% baseline turnout, a maximum of 2,000 participants and an 80% power target. The plots use differences of 2, 5, 8, 10 and 15 <strong>percentage points</strong>. These are planning assumptions, not measured effects.</p>
-<p>For arm sizes <span class="math inline">\(n_j\)</span>, probabilities <span class="math inline">\(p_j\)</span> and contrast weights <span class="math inline">\(c_j\)</span>, let <span class="math inline">\(\Delta=\sum c_jp_j\)</span> and <span class="math inline">\(V=\sum c_j^2p_j(1-p_j)/n_j\)</span>. Approximate two-sided Wald-test power is</p>
-<p><span class="math display">\[\Phi(-z_{1-\alpha/2}-\Delta/\sqrt V)+1-\Phi(z_{1-\alpha/2}-\Delta/\sqrt V).\]</span></p>
 <div id="208f0b8e" class="cell" data-execution="{&quot;iopub.execute_input&quot;:&quot;2026-10-19T05:33:53.205470Z&quot;,&quot;iopub.status.busy&quot;:&quot;2026-10-19T05:33:53.205394Z&quot;,&quot;iopub.status.idle&quot;:&quot;2026-10-19T05:33:53.208875Z&quot;,&quot;shell.execute_reply&quot;:&quot;2026-10-19T05:33:53.208228Z&quot;}" data-execution_count="5">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> allocation(total, shares):</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>    shares <span class="op">=</span> np.asarray(shares, dtype<span class="op">=</span><span class="bu">float</span>)</span>
@@ -3835,8 +3833,6 @@ window.Quarto = {
 <ul>
 <li>Dekker, I., Luberti, M., &amp; Stam, J. (2023). Effects of supplemental instruction on grades, mental well-being, and belonging: A field experiment. <em>Learning and Instruction, 87</em>, 101805. https://doi.org/10.1016/j.learninstruc.2023.101805. Methods: sections 2.1-2.5; grade model: section 3.3 and Table 5.</li>
 <li>Preregistration: https://osf.io/96zp4/, especially response q7 on individual randomisation.</li>
-<li>Instructor starter and data: https://github.com/info-241/problem-set-2-starter, commit <code>f436fb30a7e5ee52094d140b92787207a83734ee</code>.</li>
-<li>INFO 241 Unit 3 lecture slides, design grammar.</li>
 </ul>
 </section>
 

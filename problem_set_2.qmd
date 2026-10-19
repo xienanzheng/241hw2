@@ -229,10 +229,6 @@ focal outcomes, the Holm-adjusted grade p-value is {adjusted_p[0]:.4f}.
 ### 3.1 Assumptions and function
 Everyone receives the ordinary email. $C$ denotes email only, $B$ adds bCourses and $F$ adds flyers. I assume independent binary attendance, 40% baseline turnout, a maximum of 2,000 participants and an 80% power target. The plots use differences of 2, 5, 8, 10 and 15 **percentage points**. These are planning assumptions, not measured effects.
 
-For arm sizes $n_j$, probabilities $p_j$ and contrast weights $c_j$, let $\Delta=\sum c_jp_j$ and $V=\sum c_j^2p_j(1-p_j)/n_j$. Approximate two-sided Wald-test power is
-
-$$\Phi(-z_{1-\alpha/2}-\Delta/\sqrt V)+1-\Phi(z_{1-\alpha/2}-\Delta/\sqrt V).$$
-
 ```{python}
 def allocation(total, shares):
     shares = np.asarray(shares, dtype=float)
@@ -436,5 +432,3 @@ The simulation agrees closely with the approximation. The design should follow t
 
 - Dekker, I., Luberti, M., & Stam, J. (2023). Effects of supplemental instruction on grades, mental well-being, and belonging: A field experiment. *Learning and Instruction, 87*, 101805. https://doi.org/10.1016/j.learninstruc.2023.101805. Methods: sections 2.1-2.5; grade model: section 3.3 and Table 5.
 - Preregistration: https://osf.io/96zp4/, especially response q7 on individual randomisation.
-- Instructor starter and data: https://github.com/info-241/problem-set-2-starter, commit `f436fb30a7e5ee52094d140b92787207a83734ee`.
-- INFO 241 Unit 3 lecture slides, design grammar.

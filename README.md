@@ -35,4 +35,3 @@ The analysis uses seed 2412026, 99,999 randomisation draws and 50,000 power simu
 
 - [Paper](https://doi.org/10.1016/j.learninstruc.2023.101805)
 - [Preregistration](https://osf.io/96zp4/)
-- [Instructor starter](https://github.com/info-241/problem-set-2-starter)
